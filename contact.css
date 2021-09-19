@@ -1,0 +1,36 @@
+.contact
+{
+height:1000px;
+width:1340px;
+margin-left:auto;
+margin-right:auto;
+background-color:#0099CC;
+}
+.map
+{
+height:600px;
+width:1340px;
+float:left;
+}
+.contact_details 
+{
+height:400px;
+width:670px;
+float:left;
+}
+contact_details p
+{
+font-style:italic;
+font-size:36px;
+}
+contact_details1
+{
+height:400px;
+width:670px;
+float:right;
+}
+contact_details1 p
+{
+font-style:italic;
+font-size:36px;
+}

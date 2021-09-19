@@ -5,7 +5,7 @@ Computing community is a web based (static) computer resource that helps student
 
 ## Features
 
-- Students can search for internship, inplant training
+- Students can search for internship and inplant training
 - There is options for getting exposed to technical books, courses and projects
 - The ideas about basic programing languages, coding wesites and forums
 

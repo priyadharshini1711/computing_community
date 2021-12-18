@@ -20,7 +20,7 @@ Computing community uses a the follwing tech stacks to work properly:
 
 ## Installation
 
-Dillinger requires PHP5 and a wamp server to run.
+Computing community requires PHP5 and a wamp server to run.
 
 - Clone the project into www directory of wamp server
 - start wamp server

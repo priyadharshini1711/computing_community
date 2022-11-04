@@ -1,7 +1,6 @@
-# Computing Community
-## All in one computer science career resource
-
-Computing community is a web based (static) computer resource that helps students to imporve their career
+## Computing Community
+ 
+All in one computer science career resource. Computing community is a web based (static) computer resource that helps students to imporve their career
 
 ## Features
 
@@ -27,7 +26,7 @@ Computing community requires PHP5 and a wamp server to run.
 - open project from localhost
 - project is running on http://localhost/computing_community/home.php
 
-##Images
+## Images
 
 ![image](https://user-images.githubusercontent.com/81974121/133920120-e1850309-5ee3-4dbd-9ba2-82ab3442c429.png)
 ![image](https://user-images.githubusercontent.com/81974121/133920128-33366a3d-4893-40db-bcb6-27a2d43215ea.png)

@@ -1,30 +1,22 @@
 ## Computing Community
- 
-All in one computer science career resource. Computing community is a web based (static) computer resource that helps students to imporve their career
+
+> All in one computer science career resource. Computing community is a web based (static) computer resource that helps students to improve their career. This is the improved version of the previous application [_computing-community-1.0-source-code_](https://github.com/priyadharshini1711/computing_community).
+> Live demo [_computing-community-2.0_](https://computing-community-2-0.netlify.app/index.html).
 
 ## Features
 
 - Students can search for internship and inplant training
 - There is options for getting exposed to technical books, courses and projects
-- The ideas about basic programing languages, coding wesites and forums
+- The ideas about basic programing languages, coding websites and forums
 
-## Tech
+## Technology
 
-Computing community uses a the follwing tech stacks to work properly:
+Computing community uses a the following tech stacks to work properly:
 
 - HTML
 - CSS
 - PHP
 - Dream Weaver
-
-## Installation
-
-Computing community requires PHP5 and a wamp server to run.
-
-- Clone the project into www directory of wamp server
-- start wamp server
-- open project from localhost
-- project is running on http://localhost/computing_community/home.php
 
 ## Images
 
@@ -34,4 +26,11 @@ Computing community requires PHP5 and a wamp server to run.
 ![image](https://user-images.githubusercontent.com/81974121/133920166-4dc9d9f6-40c6-4369-ac15-7d71391d0973.png)
 ![image](https://user-images.githubusercontent.com/81974121/133920170-3b66b835-c89b-4770-86bd-56e2e395a11a.png)
 
+## Setup
 
+Computing community requires PHP5 and a wamp server to run.
+
+- Clone the project into www directory of wamp server
+- start wamp server
+- open project from localhost
+- project is running on http://localhost/computing_community/

@@ -1,7 +1,6 @@
 ## Computing Community
 
-> All in one computer science career resource. Computing community is a web based (static) computer resource that helps students to improve their career. This is the improved version of the previous application [_computing-community-1.0-source-code_](https://github.com/priyadharshini1711/computing_community).
-> Live demo [_computing-community-2.0_](https://computing-community-2-0.netlify.app/index.html).
+> All in one computer science career resource. Computing community is a web based (static) computer resource that helps students to improve their career. 
 
 ## Features
 
